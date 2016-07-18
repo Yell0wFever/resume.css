@@ -1,0 +1,36 @@
+#header {
+    height: 20px;
+    width: 164px;
+    background-color: red;
+    border-radius: 5px;
+    border: 10px solid #1a8cff;
+    position: fixed;
+    z-index: 1;
+}
+.left {
+    height: 225px;
+    width: 300px;
+    background-color: #ff1a75;
+    border: 10px solid #cc00cc;
+    border-radius: 5px;
+    float: left;
+}
+.right {
+    height: 200px;
+    width: 300px;
+    background-color: #cc6600;
+    border: 10px solid #ffff1a;
+    border-radius: 5px;
+    float: right;
+}
+#footer {
+    height: 20px;
+    width: 350px;
+    background-color: #1aff1a;
+    border: 10px solid #ff1a1a;
+    border-radius: 5px;
+    clear: both
+}    
+h3 {
+    font-size: 20px;
+}
